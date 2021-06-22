@@ -1,0 +1,16 @@
+<html>
+    <body>
+        <script>
+            function handleOnClick(){
+                console.log(new Date());
+                var mydate=new Date();
+                document.title="My Title.."+ mydate;
+                document.getElementById("super").innerHTML="My Title.."+mydate;
+
+            }
+        </script>
+    </body>
+      <h2>My First Html Page</h2>
+      <button onclick="handleOnClick()">ok</button>
+      <div id="super">welcome to the page click the button</div>
+</html>
