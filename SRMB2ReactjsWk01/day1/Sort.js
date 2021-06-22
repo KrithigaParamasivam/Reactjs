@@ -16,3 +16,7 @@ student.sort((a, b) => {
     }
     return 0;
 });
+console.log(" Sort the student details by Name: ");
+student.forEach((e) => {
+    console.log(`${e.studentName} ${e.studentId} ${e.address} ${e.city} ${e.mark}`);
+});
