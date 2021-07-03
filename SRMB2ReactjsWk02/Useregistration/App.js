@@ -16,12 +16,7 @@ function App() {
   return (
     
     <div className="App">
-    {/*UserRegistration onUserAdd={handleUserAddition}*/}
-        <UserRegistration/>
-        {/* <MyNewValidation/>*/}
-        {/* <MyNewValidation/>*/}
-         {/*<login/>*/}
-          {/*<login/>*/}
+        <UserRegistration/>      
     </div>
   );
 }
