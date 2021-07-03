@@ -10,7 +10,7 @@ export default function UserRegistration(props) {
     city: -1,
     course: -1,
     gender:false,
-    //designation: false,
+    designation: false,
     intext: false,
   };
 
