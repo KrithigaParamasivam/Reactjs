@@ -10,7 +10,6 @@ export default function UserRegistration(props) {
     city: -1,
     course: -1,
     gender:false,
-    //designation: false,
     intext: false,
   };
 
@@ -47,12 +46,9 @@ export default function UserRegistration(props) {
     if (Object.entries(formErrors).length == 0) {
       setSubmitted(true);
     } else setSubmitted(false);
-
-   // props.onUserAdd(formValues);
   };
 
   const handleOnChange = (event) => {
-    //const isInternalExternal = event.target.type === "checkbox";
     const designation = event.target.type === "checkbox";
 
     const { name, value } = event.target;
