@@ -15,10 +15,12 @@ export const Signup = () => {
       .email('Email is invalid')
       .required('Email is required'),
     phoneno: Yup.string()
-      .min(10, 'Password must be at least 10 charaters')
-      .required('phnNO is required'),
+      .min(10, 'MobileNo must contain 10 numbers  ')
+      .max(10, 'Must be less than 10 Numbers')
+      .required('Mobile Number is required'),
     password: Yup.string()
       .min(6, 'Password must be at least 6 charaters')
+      .max(8, 'Password must be at less than 8 charaters')
       .required('Password is required'),
     confirmPassword: Yup.string()
       .oneOf([Yup.ref('password'), null], 'Password must match')
@@ -46,8 +48,8 @@ export const Signup = () => {
             <TextField label="First Name" name="firstName" type="text" />
             <TextField label="last Name" name="lastName" type="text" />
             <TextField label="Email" name="email" type="email" />
-            <TextField label="phoneNumber" name="phoneno" type="phoneno" />
-            <TextField label="password" name="password" type="password" />
+            <TextField label="Mobile Number" name="phoneno" type="phoneno" />
+            <TextField label="Password" name="password" type="password" />
             <TextField label="Confirm Password" name="confirmPassword" type="password" />
             <button className="btn btn-dark mt-2" type="submit"  >Register</button>
             <button className="btn btn-dark mt-2"type="reset">Reset</button>
