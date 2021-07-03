@@ -6,6 +6,7 @@ export default function UserRegistration(props) {
   const initialValues = {
     username:"",
     firstname:"",
+    lastname:"",
     email: "",
     city: -1,
     course: -1,
