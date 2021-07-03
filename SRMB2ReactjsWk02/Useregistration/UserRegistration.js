@@ -9,8 +9,7 @@ export default function UserRegistration(props) {
     email: "",
     city: -1,
     course: -1,
-    gender:true,
-    designation: false,
+    gender:false,
     intext: false,
   };
 
