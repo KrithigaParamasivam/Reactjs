@@ -23,8 +23,9 @@ body {
 }
 
 .title-container {
-  height: 90vh;
-  background: url("img/bg.jpg") center center no-repeat;
+  height: 60vh;
+  width: 60%;
+  background: url("img/bg7.jpg")center center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -49,8 +50,9 @@ body {
 }
 
 .form-container {
-  background-color: #2c3e50;
+  background-color: #cf9d11;
   height: 90vh;
+  width: 100%;
   padding-top: 100px;
   padding-left: 50px;
 }

@@ -9,9 +9,14 @@ const API_KEY = "f668e1797efc0285b0dd844f0f3497a0";
 class App extends React.Component {
   state = {
     temperature: undefined,
+    temp_min: undefined,
+    temp_max: undefined,
+    feels_like: undefined,
     city: undefined,
     country: undefined,
     humidity: undefined,
+    wind: undefined,
+    pressure: undefined,
     description: undefined,
     error: undefined
   }
@@ -27,6 +32,12 @@ class App extends React.Component {
         city: data.name,
         country: data.sys.country,
         humidity: data.main.humidity,
+        pressure: data.main.pressure,
+        wind_speed: data.main.wind_speed,
+        temp_min:data.main.temp_min,
+        temp_max:data.main.temp_max,
+        feels_like: data.main.feels_like,
+
         description: data.weather[0].description,
         error: ""
       });
@@ -35,8 +46,13 @@ class App extends React.Component {
         temperature: undefined,
         city: undefined,
         country: undefined,
+        wind_speed: undefined,
+        temp_min: undefined,
+        temp_max: undefined,
+        pressure: undefined,
         humidity: undefined,
         description: undefined,
+        feels_like: undefined,
         error: "Please enter the values."
       });
     }
@@ -56,6 +72,11 @@ class App extends React.Component {
                   <Weather 
                     temperature={this.state.temperature} 
                     humidity={this.state.humidity}
+                    wind_speed={this.state.wind_speed}
+                    temp_min={this.state.temp_min}
+                    temp_max={this.state.temp_max}
+                    feels_like={this.state.feels_like}
+                    pressure={this.state.pressure}
                     city={this.state.city}
                     country={this.state.country}
                     description={this.state.description}
@@ -72,3 +93,4 @@ class App extends React.Component {
 };
 
 export default App;
+
