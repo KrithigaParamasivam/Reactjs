@@ -1,0 +1,44 @@
+{
+  "student": [
+    {
+      "username": "krithi",
+      "firstname": "Krithiga",
+      "lastname": "p",
+      "email": "krithiyazzz@gmail.com",
+      "city": "Chennai",
+      "course": "Mca",
+      "country": "Europe",
+      "gender": "on",
+      "designation": true,
+      "agree": true,
+      "id": 9
+    },
+    {
+      "username": "divyadvya",
+      "firstname": "divya",
+      "lastname": "p",
+      "email": "divya@gmail.com",
+      "city": "Madurai",
+      "course": "Bsc",
+      "country": "India",
+      "gender": "on",
+      "designation": true,
+      "agree": true,
+      "id": 10
+    },
+    {
+      "username": "harihari",
+      "firstname": "haritha",
+      "lastname": "R",
+      "email": "haritha@gmail.com",
+      "city": "Chennai",
+      "course": "Bca",
+      "country": "India",
+      "gender": "on",
+      "designation": true,
+      "agree": true,
+      "id": 11
+    }
+    
+  ]
+}
