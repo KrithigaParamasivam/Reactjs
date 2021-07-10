@@ -1,0 +1,23 @@
+{"studentdetails":
+    [{"id":1,"first_name":"Shep","last_name":"Northfield","email":"snorthfield0@google.it","gender":"Non-binary","ip_address":"238.148.87.64","phone_number":"532 318 4269","country":"Austrialia"},
+
+    {"id":2,"first_name":"Corrine","last_name":"Morrill","email":"cmorrill1@google.cn","gender":"Agender","ip_address":"241.241.169.78","phone_number":"567 202 9048","country":"India"},
+    {"id":3,"first_name":"Jeff","last_name":"Bagworth","email":"jbagworth2@nyu.edu","gender":"Non-binary","ip_address":"101.98.81.61","phone_number":"544 513 5655","country":"India"},
+    {"id":4,"first_name":"Antonietta","last_name":"Pischel","email":"apischel3@washingtonpost.com","gender":"Bigender","ip_address":"93.150.235.1","phone_number":"732 109 5791","country":"Germany"},
+    {"id":5,"first_name":"Marta","last_name":"Poynser","email":"mpoynser4@craigslist.org","gender":"Polygender","ip_address":"205.221.177.228","phone_number":"585 160 1538","country":"France"},
+    {"id":6,"first_name":"Ann","last_name":"Pinnegar","email":"apinnegar5@cam.ac.uk","gender":"Bigender","ip_address":"93.53.4.68","phone_number":"579 244 2787","country":"France"},
+    {"id":7,"first_name":"Rosaline","last_name":"Phant","email":"rphant6@senate.gov","gender":"Male","ip_address":"93.110.143.85","phone_number":"227 211 6544","country":"Japan"},
+    {"id":8,"first_name":"Patrick","last_name":"Fitzsymon","email":"pfitzsymon7@paginegialle.it","gender":"Genderqueer","ip_address":"28.114.0.147","phone_number":"842 414 0569","country":"India"},
+    {"id":9,"first_name":"Huntington","last_name":"Verring","email":"hverring8@dropbox.com","gender":"Agender","ip_address":"46.22.161.198","phone_number":"401 940 3356","country":"Brazil"},
+    {"id":10,"first_name":"Kory","last_name":"Pohls","email":"kpohls9@yelp.com","gender":"Non-binary","ip_address":"26.247.147.153","phone_number":"401 875 6961","country":"France"},
+    {"id":11,"first_name":"Rutherford","last_name":"Lamers","email":"rlamersa@theguardian.com","gender":"Non-binary","ip_address":"2.53.183.13","phone_number":"726 908 1128","country":"India"},
+    {"id":12,"first_name":"Lusa","last_name":"Ricca","email":"lriccab@surveymonkey.com","gender":"Agender","ip_address":"172.151.48.222","phone_number":"420 831 3107","country":"Germany"},
+    {"id":13,"first_name":"Berne","last_name":"Sheasby","email":"bsheasbyc@wix.com","gender":"Female","ip_address":"143.2.179.105","phone_number":"317 776 3179","country":"Germany"},
+    {"id":14,"first_name":"Dasya","last_name":"Eltringham","email":"deltringhamd@quantcast.com","gender":"Bigender","ip_address":"103.84.6.172","phone_number":"294 804 7423","country":"Canada"},
+    {"id":15,"first_name":"Darren","last_name":"Vagges","email":"dvaggese@sciencedaily.com","gender":"Non-binary","ip_address":"116.32.52.33","phone_number":"649 901 1060","country":"Argentina"},
+    {"id":16,"first_name":"Alexandra","last_name":"Roughsedge","email":"aroughsedgef@studiopress.com","gender":"Agender","ip_address":"60.79.40.120","phone_number":"703 596 2119","country":"China"},
+    {"id":17,"first_name":"Naoma","last_name":"Gerrels","email":"ngerrelsg@jalbum.net","gender":"Polygender","ip_address":"217.218.116.228","phone_number":"725 366 4790","country":"colombia"},
+    {"id":18,"first_name":"Damiano","last_name":"McLinden","email":"dmclindenh@bbc.co.uk","gender":"Polygender","ip_address":"59.158.117.248","phone_number":"281 846 3735","country":"Canada"},
+    {"id":19,"first_name":"Brennan","last_name":"Grebert","email":"bgreberti@technorati.com","gender":"Genderqueer","ip_address":"94.228.40.165","phone_number":"743 616 4795","country":"France"},
+    {"id":20,"first_name":"Corby","last_name":"Havick","email":"chavickj@nhs.uk","gender":"Polygender","ip_address":"218.164.123.132","phone_number":"744 568 1951","country":"Brazil"}]
+}
