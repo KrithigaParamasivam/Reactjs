@@ -1,0 +1,56 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Chennai"
+    },
+    {
+      "firstname": "Krithiga",
+      "lastname": "p",
+      "email": "hmgkgjhlkhj@gmail.com",
+      "password": "Krithi@14",
+      "confirmpassword": "Krithi@14",
+      "id": 2
+    },
+    {
+      "firstname": "Krithiga",
+      "lastname": "p",
+      "email": "hmgkgjhlkhj@gmail.com",
+      "password": "Krithi@14",
+      "confirmpassword": "Krithi@14",
+      "id": 3
+    },
+    {
+      "firstname": "Krithiga",
+      "lastname": "p",
+      "email": "hmgkgjhlkhj@gmail.com",
+      "password": "Krithi@14",
+      "confirmpassword": "Krithi@14",
+      "id": 4
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "password": "",
+      "confirmpassword": "",
+      "id": 5
+    },
+    {
+      "firstname": "Krithiga",
+      "lastname": "p",
+      "email": "krithiyazzz@gmail.com",
+      "password": "Krithi@14",
+      "confirmpassword": "Krithi@14",
+      "id": 6
+    },
+    {
+      "firstname": "Krithiga",
+      "lastname": "p",
+      "email": "krithiyazzz@gmail.com",
+      "password": "Krithi@14",
+      "confirmpassword": "Krithi@14",
+      "id": 7
+    }
+  ]
+}
